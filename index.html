@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>portfolio-website</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <section class="hero" id="hero">
+      <h1  class="heroTitle" id="heroTitle">Hi, I'm Naina</h1>
+      <p class="heroText" id="heroText"> a beginner web & UI designer.</p>
+      <button class="heroBtn" id="heroBtn">View My Work</button>
+    </section>
+    <section class="about">
+  <h2>About Me</h2>
+
+  <p id="aboutText">
+    I’m a beginner freelance web & UI designer who loves creating clean layouts.
+  </p>
+
+  <button id="aboutBtn">Read More</button>
+</section>
+
+<section class="services">
+  <h2>My Services</h2>
+
+<div class="service-cards">
+  <div class="card">UI Design</div>
+  <div class="card">Frontend Development</div>
+  <div class="card">Website Redesign</div>
+</div>
+</section>
+<section class="projects">
+  <h2>Featured projects</h2>
+  <div id="projectList">
+   
+</div>
+<div class="project-card">
+  <h3>Product Card UI – SmartX Watch</h3>
+  <p>
+    Designed a modern product card component for the SmartX Watch using HTML and CSS.
+    Focused on clean layout, spacing, hover effects, and responsive design.
+  </p>
+
+  <div class="project-links">
+    <a href="https://github.com/nainakashyap1318-tech/Product-card-ui" target="_blank">Source Code</a>
+    <a href="https://nainakashyap1318-tech.github.io/Product-card-ui/" target="_blank">Live Demo</a>
+  </div>
+</div>
+<div class="project-card">
+  <h3>Login & Signup UI – SmartX</h3>
+  <p>
+    Designed a responsive authentication UI with Login and Signup toggle.
+    Implemented show/hide password functionality and basic client-side
+    validation using JavaScript to improve user experience.
+  </p>
+
+  <div class="project-links">
+    <a href="#" target="_blank">Live Demo</a>
+    <a href="#" target="_blank">Source Code</a>
+  </div>
+</div>
+ <div class="project-card">
+  <h3>Tech Product Landing Page</h3>
+  <p>
+    A responsive landing page for a tech product built using HTML, CSS, and JavaScript.
+    Includes navbar with hamburger menu, smooth scrolling, CTA section, and footer.
+  </p>
+
+  <div class="project-links">
+
+<a href="https://github.com/nainakashyap1318-tech/Tech-Product-Landing-Page"target="_blank">Source Code
+</a>
+<a href="https://nainakashyap1318-tech.github.io/Tech-Product-Landing-Page/" target="blank">Live Demo</a>
+  </div>
+<div class="project-card">
+  <h3>SmartX Admin Dashboard</h3>
+  <p>A modern, responsive admin dashboard interface built using HTML, CSS, and JavaScript.
+The project features a collapsible sidebar with hamburger menu for mobile, stat cards, interactive charts using Chart.js, and a recent activity table.
+Designed with a mobile-first approach and focused on clean UI, spacing, and usability.</p>
+
+  <div class="project-links">
+<a href="https://github.com/nainakashyap1318-tech/smartx-admin-dashboard" target="_blank">
+  Source Code
+</a>
+<a href="https://nainakashyap1318-tech.github.io/Smartx-admin-dashboard/" target="blank"> Live Demo</a>
+
+  </div>
+</div>
+  </div>
+</section>
+<section class="skills">
+  <h2>My Skills</h2>
+
+  <div class="skill">
+    <span>HTML</span>
+    <div class="bar">
+      <div class="progress" data-value="80"></div>
+    </div>
+  </div>
+
+  <div class="skill">
+    <span>CSS</span>
+    <div class="bar">
+      <div class="progress" data-value="75"></div>
+    </div>
+  </div>
+
+  <div class="skill">
+    <span>JavaScript</span>
+    <div class="bar">
+      <div class="progress" data-value="60"></div>
+    </div>
+  </div>
+</section>
+<section class="journey">
+  <h2>My Learning Journey</h2>
+
+  <div class="step">
+    <h3>HTML & CSS Basics</h3>
+    <p class="details">
+      Learned layout, colors, typography and responsive design.
+    </p>
+    <button class="toggleBtn">Read More</button>
+  </div>
+
+  <div class="step">
+    <h3>JavaScript Basics</h3>
+    <p class="details">
+      Learned DOM, events, classList, and basic logic.
+    </p>
+    <button class="toggleBtn">Read More</button>
+  </div>
+
+  <div class="step">
+    <h3>Building Projects</h3>
+    <p class="details">
+      Created real UI sections and interactive components.
+    </p>
+    <button class="toggleBtn">Read More</button>
+  </div>
+</section>
+<section class="testimonials">
+  <h2>What People Say</h2>
+
+  <div class="testimonial-box">
+    <p id="reviewText"></p>
+    <h4 id="reviewName"></h4>
+  </div>
+
+  <div class="controls">
+    <button id="prev">Prev</button>
+    <button id="next">Next</button>
+  </div>
+</section>
+<section class="contact">
+  <h2>Contact Me</h2>
+
+  <form id="contactForm">
+    <input type="text" id="name" placeholder="Your Name">
+    <input type="email" id="email" placeholder="Your Email">
+    <textarea id="message" placeholder="Your Message"></textarea>
+
+    <button type="submit">Send Message</button>
+  </form>
+
+  <p id="successMsg"></p>
+</section>
+    <script src="script.js"></script>
+  </body>
+</html>
