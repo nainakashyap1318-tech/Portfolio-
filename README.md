@@ -9,14 +9,22 @@ I focus on building **clean, responsive layouts** and improving my skills by wor
 
 ---
 
+## 🔹 Portfolio
+🌐 **Live Portfolio Website:**  
+https://nainakashyap1318-tech.github.io/Portfolio-/
+
+---
+
 ## 🔹 Projects
 
 | Project | Description | Tech | Link |
 |--------|------------|------|------|
+| **Portfolio Website** | My personal portfolio showcasing all my front-end projects, skills, and learning journey | HTML, CSS, JavaScript | [Live Site](https://nainakashyap1318-tech.github.io/Portfolio-) · [GitHub Repo](https://github.com/nainakashyap1318-tech/Portfolio-) |
+
 | **Landing Page UI** | Responsive landing page built with clean layout and modern design principles | HTML, CSS | [GitHub Repo](https://github.com/nainakashyap1318-tech/Tech-Product-Landing-Page) |
 | **Product Card UI** | E-commerce style product card design focusing on layout, spacing, and visual hierarchy | HTML, CSS | [GitHub Repo](https://github.com/nainakashyap1318-tech/Product-card-ui) |
 | **Login & Signup UI** | Authentication UI with login and signup screens focusing on form layout and user flow | HTML, CSS, JavaScript | [GitHub Repo](https://github.com/nainakashyap1318-tech/Login-Signup-ui-) |
-| **Portfolio Website** | Personal portfolio showcasing my projects, skills, and front-end journey | HTML, CSS, JavaScript | [GitHub Repo](https://github.com/nainakashyap1318-tech/Portfolio-) |
+
 | **Admin Dashboard UI** | Responsive admin dashboard with sidebar navigation, cards, and charts to visualize data | HTML, CSS, JavaScript | [GitHub Repo](https://github.com/nainakashyap1318-tech/Admin-Dashboard-UI) |
 
 ---
