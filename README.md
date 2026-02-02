@@ -2,6 +2,10 @@
 
 💻 **Front-end Developer skilled in HTML, CSS & JavaScript**
 
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
 ---
 
 ## 🔹 About Me  
@@ -11,7 +15,7 @@ I focus on building **clean, responsive layouts** and improving my skills by wor
 
 ## 🔹 Portfolio
 🌐 **Live Portfolio Website:**  
-https://nainakashyap1318-tech.github.io/Portfolio-/
+https://nainakashyap1318-tech.github.io/Portfolio-
 
 ---
 
@@ -19,13 +23,11 @@ https://nainakashyap1318-tech.github.io/Portfolio-/
 
 | Project | Description | Tech | Link |
 |--------|------------|------|------|
-| **Portfolio Website** | My personal portfolio showcasing all my front-end projects, skills, and learning journey | HTML, CSS, JavaScript | [Live Site](https://nainakashyap1318-tech.github.io/Portfolio-) · [GitHub Repo](https://github.com/nainakashyap1318-tech/Portfolio-) |
-
-| **Landing Page UI** | Responsive landing page built with clean layout and modern design principles | HTML, CSS | [GitHub Repo](https://github.com/nainakashyap1318-tech/Tech-Product-Landing-Page) |
-| **Product Card UI** | E-commerce style product card design focusing on layout, spacing, and visual hierarchy | HTML, CSS | [GitHub Repo](https://github.com/nainakashyap1318-tech/Product-card-ui) |
-| **Login & Signup UI** | Authentication UI with login and signup screens focusing on form layout and user flow | HTML, CSS, JavaScript | [GitHub Repo](https://github.com/nainakashyap1318-tech/Login-Signup-ui-) |
-
-| **Admin Dashboard UI** | Responsive admin dashboard with sidebar navigation, cards, and charts to visualize data | HTML, CSS, JavaScript | [GitHub Repo](https://github.com/nainakashyap1318-tech/Admin-Dashboard-UI) |
+| **Landing Page UI** | Responsive landing page with clean layout and modern design principles | HTML, CSS | [GitHub Repo](https://github.com/nainakashyap1318-tech/Landing-page-ui) |
+| **Product Card UI** | E-commerce style product card focusing on layout and spacing | HTML, CSS | [GitHub Repo](https://github.com/nainakashyap1318-tech/Product-card-ui) |
+| **Login & Signup UI** | Authentication UI with login and signup screens | HTML, CSS, JavaScript | [GitHub Repo](https://github.com/nainakashyap1318-tech/Login-Signup-ui-) |
+| **Admin Dashboard UI** | Responsive admin dashboard with sidebar, cards, and charts | HTML, CSS, JavaScript | [GitHub Repo](https://github.com/nainakashyap1318-tech/Admin-Dashboard-UI) |
+| **Portfolio Website** | Personal portfolio showcasing my front-end journey | HTML, CSS, JavaScript | [Live Site](https://nainakashyap1318-tech.github.io/Portfolio-) · [GitHub Repo](https://github.com/nainakashyap1318-tech/Portfolio-) |
 
 ---
 
@@ -39,5 +41,5 @@ https://nainakashyap1318-tech.github.io/Portfolio-/
 ---
 
 ## 🔹 Contact
-- 📧 Email: nainakashyap1318@gmail.com
+- 📧 Email: nainakashyap1318@gmail.com  
 - 🐙 GitHub: https://github.com/nainakashyap1318-tech
