@@ -2,8 +2,6 @@
 
 Hi 👋  
 I’m **Naina**, a beginner **UI Designer & Frontend Developer** who loves creating clean, simple, and responsive user interfaces.  
-I’m currently learning and building projects using **HTML, CSS, and JavaScript**, and improving my UI/UX skills through real practice.
-
 I believe in *learning by building* — every project you see below helped me grow one step forward 🚀
 
 ---
